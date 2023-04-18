@@ -18,6 +18,8 @@ To make a new repository, do this:
 git init
 ```
 
+then you can type this in
+
 ```bash
 git add .
 ```
