@@ -86,7 +86,7 @@ Updating the DOM with plain JavaScript is very powerful but verbose. You've writ
 One thing to mention, as more and more people contribute to projects, the more difficult it is in order to manage it. Due to this, most coding is just telling the computer what to do. 
 
 ---
-## What if we could describe what it is that you want to show and let the computer figure out how to update the DOM
+## What if we could describe what it is that you want to show and let the computer figure out how to update the DOM?
 
 - Imperative vs. declarative programming
 
