@@ -67,7 +67,7 @@ Using DOM, you can even make a whole new h1, changing the content of your file
 
 ---
 Now, you will notice one thing of these two images, the DOM of the page is different from the HTML file you made.
-![DOM](asset/html-compare-dom.avif)
+![DOM](html-compare-dom.avif)
 This is because the HTML represents the initial page, and the DOM represents the updated page content after the Javascrpt code.
 
 Updating the DOM with plain JavaScript is very powerful but verbose. You've written all this code to add an h1 element with some text:
