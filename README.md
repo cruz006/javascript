@@ -2,7 +2,7 @@
 
 ---
 
-this will be a folder of everything JavaScript i will do or ever use
+This will be a folder of everything JavaScript i will do or ever use
 
 - this will also contain my code.org projects
 
